@@ -1,6 +1,6 @@
 # Minerali
 
-I minerali sono corpi inorganici naturali per lo più solidi che possiedono una composizione chimica ben definita
+I minerali sono corpi inorganici naturali per lo più solidi che possiedono una composizione chimica ben definita.
 
 ## Formazione Minerali
 

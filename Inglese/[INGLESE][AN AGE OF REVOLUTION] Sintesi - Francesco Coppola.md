@@ -1,6 +1,6 @@
 # An Age of Revolution
 
-Second half of 18th century to the decades of 19th century
+Second half of 18th century to the decades of 19th century.
 
 ## French Revolution
 
