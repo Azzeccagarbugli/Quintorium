@@ -30,15 +30,19 @@ Esso sarà una semplice Repository al cui interno vi saranno delle sottocartelle
     *   Informatica
     *   Arte
 
-## Sinstassi del nome del file
+## Sinstassi della Repository
 
-La sintassi del nome del file potrà variare durante il corso dell'Anno se lo riterrò opportuno ma inizlamente ne avrà una predefinita, caratterizata dal seguente schema:
+La sintassi del nome del file e del titolo del commit potranno variare durante il corso dell'anno se lo riterrò opportuno ma inizlamente ne avranno una predefinita, caratterizata dal seguente schema:
+
+### Sintassi nome del file
+
+Essa sarà strutturata nel segunete modo:
 
 &nbsp;&nbsp;  **[NOME MATERIA][ARGOMENTO] Note sull'argomento trattato - Nome autore file**
 
-## Sinstassi del Commit
+### Sintassi commit
 
-Così come la sintassi del nome del file potrà variare durante il corso dell'Anno, anche quella del Commit potrà variare, ma inizialmente, ne avrà una predefinita:
+Essa sarà strutturata nel segunete modo:
 
 &nbsp;&nbsp;  **[NOME MATERIA][MESE DELL'ANNO] Titolo argomento trattato**
 
