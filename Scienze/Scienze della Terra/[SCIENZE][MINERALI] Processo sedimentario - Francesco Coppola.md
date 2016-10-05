@@ -7,3 +7,4 @@ Le rocce sedimentarie sono il risultato di un complesso di fenomeni, chiamato pr
       * Clastiche o detritiche
       * Organogenee
       * Deposito chimico
+      * Piroclastiche
